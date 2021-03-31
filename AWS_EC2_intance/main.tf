@@ -1,3 +1,7 @@
+# Simple AWS EC2 Terraform Example
+# to test: run `terraform plan`
+# to deploy: run `terraform apply`
+
 terraform {
   required_providers {
     aws = {
